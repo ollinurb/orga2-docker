@@ -29,4 +29,4 @@ Para detenerlo, `docker stop`.
 
 Para comprobar que esta detenido, `docker ps -a`.
 
-Para volver a correrlo, `docker start enviroment-orga`.
+Para volver a correrlo, `docker start -i enviroment-orga`.
