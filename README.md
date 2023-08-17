@@ -1,5 +1,13 @@
 # orga2-docker
 
+Imagen de docker para el ambiente de desarrolo para Organización del computador 2.
+
+- Ubuntu
+- GCC (Compilador de C)
+- NASM (Ensamblador de assembler)
+- Valgrind (Tester de memory leaks)
+- Varios paquetes: Curl, Vim, Git, Pass, Wget
+
 **Para crear la imagen:**
 
 ```
