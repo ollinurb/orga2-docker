@@ -25,7 +25,7 @@ Correr `docker images` para comprobar que la imagen **orga2** está presente.
 docker run -it --name enviroment-orga orga2:1.0
 ```
 
-Para detenerlo, `docker stop`.
+Para detenerlo, `docker stop enviroment-orga`.
 
 Para comprobar que esta detenido, `docker ps -a`.
 
