@@ -29,7 +29,7 @@ docker run --name <nombre_contenedor> -it -v <global_path_volumen>:<remote_path>
 
 ejemplo: `docker run --name orga2 -it -v ~/Desktop/orga2:/usr/src/orga2 alpine:1.0` 
 
-Para detenerlo, `docker stop`.
+Para detenerlo, `docker stop enviroment-orga`.
 
 Para comprobar que esta detenido, `docker ps -a`.
 
